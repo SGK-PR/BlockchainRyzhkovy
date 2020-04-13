@@ -41,7 +41,7 @@ namespace BlockchainRyzhkovy
         {
             Id = 1;
             Data = "Hello, World";
-            Created = DateTime.Parse("01.09.2018 00:00:00:000");
+            Created = DateTime.Parse("13.04.2020 00:00:00.000");
             PreviousHash = "111111";
             User = "Admin";
 
