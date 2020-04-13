@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainRyzhkovy", "BlockchainRyzhkovy\BlockchainRyzhkovy.csproj", "{1ECF77F0-A26D-4C1C-9F34-0802D486D22C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainRyzhkovyTests", "BlockchainRyzhkovyTests\BlockchainRyzhkovyTests.csproj", "{51B5A790-1B06-4EAF-A113-BC25742A095E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECF77F0-A26D-4C1C-9F34-0802D486D22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECF77F0-A26D-4C1C-9F34-0802D486D22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECF77F0-A26D-4C1C-9F34-0802D486D22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECF77F0-A26D-4C1C-9F34-0802D486D22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B5A790-1B06-4EAF-A113-BC25742A095E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B5A790-1B06-4EAF-A113-BC25742A095E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B5A790-1B06-4EAF-A113-BC25742A095E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B5A790-1B06-4EAF-A113-BC25742A095E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E46D665-7B06-45F0-A875-690F8A755842}
+	EndGlobalSection
+EndGlobal
